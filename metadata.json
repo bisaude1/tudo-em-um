@@ -1,0 +1,6 @@
+{
+  "name": "Tudo em Um",
+  "description": "Superapp de serviços e marketplace para Angola (Luanda) com módulos de Cliente, Profissional e Gestão Administrativa, orçamentos, chat e pagamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
